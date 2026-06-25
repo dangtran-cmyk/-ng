@@ -1,1 +1,72 @@
-REPLACE_ME
+[
+  {
+    "sku": "TAC451301",
+    "name": "13mm Đầu khoan kèm khớp nối Total",
+    "brand": "TOTAL",
+    "category": "Khác phụ kiện",
+    "price": 78000,
+    "regularPrice": 78000,
+    "salePrice": null,
+    "inStock": true,
+    "stock": null,
+    "tags": null,
+    "image": "https://thetoolcenter.com/wp-content/uploads/2024/01/tac451301_0c253bc7c2c94105abb548d77ca455e6.png",
+    "summary": "Khả năng khoan: 1.5-13mm. Kích thước kết nối 1/2\"-20UNF. Đóng gói trong hộp màu."
+  },
+  {
+    "sku": "TABLI200181",
+    "name": "20V Máy thổi bụi dùng pin Total TABLI200181",
+    "brand": "TOTAL",
+    "category": "Dụng cụ cầm tay > Máy thổi bụi dùng pin",
+    "price": 1418000,
+    "regularPrice": 1418000,
+    "salePrice": null,
+    "inStock": true,
+    "stock": null,
+    "tags": null,
+    "image": "https://thetoolcenter.com/wp-content/uploads/2024/01/tabli200181_1c44f6a3c54c4521b8eb51834d60c6b5_77f336815c6444a2af5bcbb8779e557c-1.jpg",
+    "summary": "Máy thổi bụi dùng pin 20V, thiết kế cầm tay nhỏ gọn, có vòi thổi dài, phù hợp vệ sinh bụi ở nhà, xe và khu vực thiếu nguồn điện."
+  },
+  {
+    "sku": "THWS010301",
+    "name": "3/4\" Đầu phun nước máy xịt rửa Total",
+    "brand": "TOTAL",
+    "category": "Dụng cụ làm vườn > Máy xịt rửa",
+    "price": 66000,
+    "regularPrice": 66000,
+    "salePrice": null,
+    "inStock": true,
+    "stock": null,
+    "tags": null,
+    "image": "https://thetoolcenter.com/wp-content/uploads/2024/01/thws010301_e6e822ffad594c64bbd1771089fe0ae4.png",
+    "summary": "Đầu phun nhựa 3 chiều có thể điều chỉnh, thân nhựa ABS chống va chạm, tay cầm thoải mái."
+  },
+  {
+    "sku": "TP135006E",
+    "name": "3.5KW Máy phát điện dùng xăng Total",
+    "brand": "TOTAL",
+    "category": "Dụng cụ năng lượng > máy phát điện",
+    "price": 12569000,
+    "regularPrice": 12569000,
+    "salePrice": null,
+    "inStock": true,
+    "stock": null,
+    "tags": null,
+    "image": "https://thetoolcenter.com/wp-content/uploads/2024/01/tp135006e_4b74e37188fb4523ab66930a4bb6e2f4_e95104ae511c4f6db9a81f282798694d.jpg",
+    "summary": "Máy phát điện xăng 3.5KW, điện thế 220-240V, tần số 50Hz, công suất liên tục 2.8KW, động cơ 4 thì OHV."
+  },
+  {
+    "sku": "TP3302",
+    "name": "7.0HP Máy bơm nước chạy xăng Total",
+    "brand": "TOTAL",
+    "category": "Dụng cụ bơm nước > Máy bơm chìm nước",
+    "price": 5187000,
+    "regularPrice": 5187000,
+    "salePrice": null,
+    "inStock": true,
+    "stock": null,
+    "tags": null,
+    "image": "https://thetoolcenter.com/wp-content/uploads/2024/01/tp3302_adbc1dd939674edcbd319cdcab6e2e57.jpg",
+    "summary": "Máy bơm nước chạy xăng 7.0HP, lưu lượng tối đa 1000L/phút, chiều cao bơm tối đa 32m, hút sâu tối đa 8m."
+  }
+]
